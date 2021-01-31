@@ -1,6 +1,6 @@
 const App = () => (
   <div>
-    <h3>Project Anova</h3>
+    <h3>Modify this project</h3>
   </div>
 )
 
