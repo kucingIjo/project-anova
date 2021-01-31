@@ -34,4 +34,5 @@ jobs:
           port: ${{ secrets.ECS_PORT }}
           rm: true
           source: "build/"
-          target: "var/www/anova/"
+          target: "/var/www/anova/"
+          strip_components: 1
