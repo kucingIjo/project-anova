@@ -1,7 +1,5 @@
-const App = () => (
-  <div>
-    <h3>Modify this project</h3>
-  </div>
-)
-
+function App(props)
+{
+  return <h1>Test</h1>;
+}
 export default App;
